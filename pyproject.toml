@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-et_stringutils"
+description = "Nodes dedicated to the analysis and transformation of text strings, such as for formatting and conversions between types."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/exectails/comfyui-et_stringutils"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-et_stringutils"
+Icon = ""
